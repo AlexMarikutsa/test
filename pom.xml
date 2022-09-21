@@ -120,16 +120,6 @@
       <artifactId>viewbindingpropertydelegate</artifactId>
       <version>1.4.6</version>
     </dependency>
-<!--     <dependency>
-      <groupId>DamageReportingSdk</groupId>
-      <artifactId>domain</artifactId>
-      <version>unspecified</version>
-    </dependency>
-    <dependency>
-      <groupId>DamageReportingSdk</groupId>
-      <artifactId>data</artifactId>
-      <version>unspecified</version>
-    </dependency> -->
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>viewbinding</artifactId>
