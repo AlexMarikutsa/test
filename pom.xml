@@ -131,11 +131,6 @@
       <version>unspecified</version>
     </dependency>
     <dependency>
-      <groupId/>
-      <artifactId>unspecified</artifactId>
-      <version/>
-    </dependency>
-    <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>viewbinding</artifactId>
       <version>7.1.3</version>
