@@ -4,7 +4,7 @@
   <groupId>com.deuwo.kleinreparatur.damage.reporting.sdk</groupId>
   <artifactId>library</artifactId>  
   <version>1.0</version>
-  <packaging>aar</packaging>
+<!--   <packaging>aar</packaging> -->
 <!--   <build>
     <plugins>
      <plugin>
