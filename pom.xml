@@ -4,8 +4,8 @@
   <groupId>com.deuwo.kleinreparatur.damage.reporting.sdk</groupId>
   <artifactId>library</artifactId>  
   <version>1.0</version>
-<!--   <packaging>aar</packaging> -->
-<!--   <build>
+  <packaging>aar</packaging>
+  <build>
     <plugins>
      <plugin>
     <groupId>com.simpligility.maven.plugins</groupId>
@@ -20,20 +20,6 @@
     </configuration>
 </plugin>
     </plugins>
-  </build> -->
-  
-  <repositories>
-    <repository>
-        <id>jitpack.io</id>
-        <url>https://jitpack.io</url>
-    </repository>
-  </repositories>
-  
-  <dependencies>
-    <dependency>
-      <groupId>androidx.core</groupId>
-      <artifactId>core-ktx</artifactId>
-      <version>1.8.0</version>
-    </dependency>
-  </dependencies>
+  </build>
+ 
 </project>
